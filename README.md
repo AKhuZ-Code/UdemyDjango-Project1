@@ -6,6 +6,12 @@ Online Course: Python and Django Full Stack Web Developer Bootcamp
 
 Project: Capstone Project One
 
+## Built with...
+
+• HTML
+
+• CSS
+
 ## File Dictionary
 
 • landing_page1.html: Landing page of the website
