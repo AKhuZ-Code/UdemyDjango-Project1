@@ -14,8 +14,8 @@ Project: Capstone Project One
 
 ## File Dictionary
 
-• landing_page1.html: Landing page of the website
+• <b>landing_page1.html</b>: Landing page of the website
 
-• thankyou_page1.html: Confirmation page for sign-up
+• <b>thankyou_page1.html</b>: Confirmation page for sign-up
 
-• styles.css: Styles applied to both HTML files
+• <b>styles.css</b>: Styles applied to both HTML files
